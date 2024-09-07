@@ -1,4 +1,4 @@
-## **Busca Rápida e Fácil de Cantores MPB**
+## **Descobrindo o MPB - Imersão Dev com gemini**
 
 **O que essa aplicação faz?**
 
